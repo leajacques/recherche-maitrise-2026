@@ -1,1 +1,3 @@
-# recherche-maitrise-2026
+# Travail de recherche – Lea Jacques
+
+Ce dépôt contient un article de recherche réalisé dans le cadre d'un mémoire de maîtrise. Il est mis à disposition à titre informatif et éducatif uniquement. Bien que tout le soin nécessaire ait été apporté à la rédaction et à l'analyse, ce travail peut contenir des erreurs, des imprécisions ou des interprétations incomplètes. Il ne doit pas être considéré comme une source définitive ou experte sur le sujet traité. L'auteur décline toute responsabilité quant à l'utilisation qui pourrait être faite de ce contenu.
